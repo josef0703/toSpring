@@ -7,4 +7,6 @@ https://velog.io/@wooriworld/IntelliJ%EC%97%90%EC%84%9C-Spring-Legacy-Project-%E
 # 이클립스 Mybatis 설정
 https://as-you-say.tistory.com/307
 
+https://homesi.tistory.com/entry/Mybatis-%EC%84%A4%EC%A0%95-pomxml
+
 sqlSessionFactory 설정하는거 공부하기
