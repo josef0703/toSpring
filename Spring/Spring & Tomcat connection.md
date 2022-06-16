@@ -9,4 +9,14 @@ https://as-you-say.tistory.com/307
 
 https://homesi.tistory.com/entry/Mybatis-%EC%84%A4%EC%A0%95-pomxml
 
-sqlSessionFactory 설정하는거 공부하기
+
+
+
+# 이클립스 Spring legact Project Maven Mybatis 연동하기 위해 필요한 것들 정리
+1. 이클립스 -> @Getmapping,@Postmapping 사용하려고 하면 springframework version 5이상 사용
+2. pom.xml에서 oracle, lombok, mybatis,mybatis-spring,spring-jdbc 의존추가
+3. servlet-context에서 datasource ,sqlSessionfactory, sqlsession 연결
+
+
+
+
